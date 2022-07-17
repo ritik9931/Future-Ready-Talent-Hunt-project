@@ -11,26 +11,29 @@ One of the most popular college resturant in the capital, CU resturant enjoys a 
 
 # Landing page : 
 
-![WhatsApp Image 2022-05-20 at 7 22 10 PM](https://user-images.githubusercontent.com/85225156/169542750-a17241ea-744f-4a22-8e56-ac37beed620b.jpeg)
+![home](https://user-images.githubusercontent.com/87005719/179416013-87c7b844-bb5b-4e1f-a27c-85eb4da641a5.png)
 
 
 # About page :
+![About](https://user-images.githubusercontent.com/87005719/179415787-3ff0026b-9203-4d63-a549-dd7dfdb6f7db.png)
 
-![WhatsApp Image 2022-05-20 at 7 30 22 PM](https://user-images.githubusercontent.com/85225156/169544223-4e9dc43e-275d-46e9-bf6d-6936efa3760e.jpeg)
 
 # Gallery 
 
-![WhatsApp Image 2022-05-20 at 7 32 08 PM](https://user-images.githubusercontent.com/85225156/169544732-8143db5d-ae9f-4023-a7d8-270f0c492c14.jpeg)
+![Galary](https://user-images.githubusercontent.com/87005719/179416096-b86232ef-527b-42bc-a87f-4448e90fc88a.png)
 
 
-# Chef
 
-![WhatsApp Image 2022-05-20 at 7 35 16 PM](https://user-images.githubusercontent.com/85225156/169545214-6cd2a179-3d5e-434d-8d6c-37126b335900.jpeg)
+# Book-table
+
+![Book-Table](https://user-images.githubusercontent.com/87005719/179416110-2ee14878-b62b-4f80-829d-726df7b7c267.png)
+
 
 
 # Contact Page 
 
-![WhatsApp Image 2022-05-20 at 7 37 17 PM](https://user-images.githubusercontent.com/85225156/169545825-328569b4-ee53-4a5f-b21a-4aa92fece6f7.jpeg)
+![Contact Us](https://user-images.githubusercontent.com/87005719/179416121-d3b70198-feb8-4950-b319-75def2975c08.png)
+
 
 <br>
 
