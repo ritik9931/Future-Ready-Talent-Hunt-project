@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
-https://brave-glacier-0ef641d10.1.azurestaticapps.net/
+ https://ritik9931.github.io/Future-Ready-Talent-Hunt-project/
 </h1>
 
 #  FOODHUT-RESTUARANT 
