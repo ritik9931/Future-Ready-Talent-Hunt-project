@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
- https://ritik9931.github.io/Future-Ready-Talent-Hunt-project/
+https://ritik9931.github.io/Resturant_Food_Hut/
 </h1>
 
 #  FOODHUT-RESTUARANT 
